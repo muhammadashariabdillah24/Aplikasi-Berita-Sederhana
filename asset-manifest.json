@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Aplikasi-Berita-Sederhana/static/css/main.73c2f92e.chunk.css",
-    "main.js": "/Aplikasi-Berita-Sederhana/static/js/main.e9232a96.chunk.js",
-    "main.js.map": "/Aplikasi-Berita-Sederhana/static/js/main.e9232a96.chunk.js.map",
-    "runtime-main.js": "/Aplikasi-Berita-Sederhana/static/js/runtime-main.40a409a2.js",
-    "runtime-main.js.map": "/Aplikasi-Berita-Sederhana/static/js/runtime-main.40a409a2.js.map",
-    "static/js/2.63a2267d.chunk.js": "/Aplikasi-Berita-Sederhana/static/js/2.63a2267d.chunk.js",
-    "static/js/2.63a2267d.chunk.js.map": "/Aplikasi-Berita-Sederhana/static/js/2.63a2267d.chunk.js.map",
+    "main.css": "/Aplikasi-Berita-Sederhana/static/css/main.3739b410.chunk.css",
+    "main.js": "/Aplikasi-Berita-Sederhana/static/js/main.fd2f7a47.chunk.js",
+    "main.js.map": "/Aplikasi-Berita-Sederhana/static/js/main.fd2f7a47.chunk.js.map",
+    "runtime-main.js": "/Aplikasi-Berita-Sederhana/static/js/runtime-main.4c029012.js",
+    "runtime-main.js.map": "/Aplikasi-Berita-Sederhana/static/js/runtime-main.4c029012.js.map",
+    "static/js/2.01f39ab2.chunk.js": "/Aplikasi-Berita-Sederhana/static/js/2.01f39ab2.chunk.js",
+    "static/js/2.01f39ab2.chunk.js.map": "/Aplikasi-Berita-Sederhana/static/js/2.01f39ab2.chunk.js.map",
     "index.html": "/Aplikasi-Berita-Sederhana/index.html",
-    "static/css/main.73c2f92e.chunk.css.map": "/Aplikasi-Berita-Sederhana/static/css/main.73c2f92e.chunk.css.map",
-    "static/js/2.63a2267d.chunk.js.LICENSE.txt": "/Aplikasi-Berita-Sederhana/static/js/2.63a2267d.chunk.js.LICENSE.txt",
+    "static/css/main.3739b410.chunk.css.map": "/Aplikasi-Berita-Sederhana/static/css/main.3739b410.chunk.css.map",
+    "static/js/2.01f39ab2.chunk.js.LICENSE.txt": "/Aplikasi-Berita-Sederhana/static/js/2.01f39ab2.chunk.js.LICENSE.txt",
     "static/media/news-icon.9f21e2d6.svg": "/Aplikasi-Berita-Sederhana/static/media/news-icon.9f21e2d6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.40a409a2.js",
-    "static/js/2.63a2267d.chunk.js",
-    "static/css/main.73c2f92e.chunk.css",
-    "static/js/main.e9232a96.chunk.js"
+    "static/js/runtime-main.4c029012.js",
+    "static/js/2.01f39ab2.chunk.js",
+    "static/css/main.3739b410.chunk.css",
+    "static/js/main.fd2f7a47.chunk.js"
   ]
 }
